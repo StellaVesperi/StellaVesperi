@@ -6,11 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on data structure.
-- 🌱 I’m currently learning cs61b spring 2021 course from UC Berkeley.
-
+This bio has been and will be out-dated for a long time.  
+I will update it when I have time.
 
 <!--
+- 🔭 I’m currently working on data structure.
+- 🌱 I’m currently learning cs61b spring 2021 course from UC Berkeley.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
